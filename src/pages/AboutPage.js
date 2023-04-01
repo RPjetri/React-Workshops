@@ -66,8 +66,8 @@ const AboutPage = () => {
             </Row>
             <Row className='row-content'>
                 <Col xs='12'>
-                    <PartnersList />
                     <h3>Community Partners</h3>
+                    <PartnersList />
                 </Col>
             </Row>
         </Container>
